@@ -32,16 +32,18 @@ Frameworki:
 Narzędzia:
 •	Git (kontrola wersji).
 6. Harmonogram prac dla 4 etapów
-Etap pierwszy – zaprogramowanie podstawowych mechanik gry
+Etap pierwszy – zaprojektowanie podstawowych grafik gry
 •	Mapa
-•	Mechanika ptaszka 
-Etap drugi – zaprogramowanie dalszych mechanik gry
+• Ptaszek
+• Kolce
+Etap drugi – zaprogramowanie mechanik gry
+•	Mechanika Mapy, Ptaszka
 •	Mechanika kolców
 •	Sterowanie
-Etap trzeci – sfinalizowanie mechanik gry
+Etap trzeci – dalsze mechaniki gry
 •	System punktów 
 •	Progresywne poziomy
-Etap czwarty – grafika 
-•	Grafika mapy, ptaszka, kolców
-•	Grafika zmienna w zależności od wyniku gracza
+Etap czwarty – sfinalizowanie projektu
+• Złożenie wszystkiego w logiczną całość
+
 
