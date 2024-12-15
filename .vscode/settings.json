@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Flappy Bird(Woli).sln"
+    "dotnet.defaultSolution": "ppz-kaszubczub.sln"
 }
