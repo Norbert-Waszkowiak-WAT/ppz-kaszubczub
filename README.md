@@ -47,3 +47,4 @@ Etap czwarty – sfinalizowanie projektu
 • Złożenie wszystkiego w logiczną całość
 
 
+![image](https://github.com/user-attachments/assets/d4e7d9a6-151a-45e8-b7fd-a2df7b2f5c74)
